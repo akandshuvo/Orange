@@ -1,0 +1,14 @@
+{
+  "name": "jquery-floating-placeholder",
+  "homepage": "https://github.com/mfpierre/jquery-floating-placeholder",
+  "_release": "941974996e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "941974996e28afe49bfe61d9ab5df3ea19a7d5a9"
+  },
+  "_source": "git://github.com/mfpierre/jquery-floating-placeholder.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/mfpierre/jquery-floating-placeholder.git",
+  "_direct": true
+}
